@@ -1,2 +1,2 @@
-# Hesap Makinesi Programı
-<p1>Bu program, kullanıcının iki sayı girmesini ve ardından dört temel matematiksel işlemi seçmesini sağlar. Program, kullanıcının seçimine göre toplama, çıkarma, çarpma veya bölme işlemini gerçekleştirir ve sonucu ekrana yazdırır. </p1>
+# Calculator With Switch - Case
+<p1>The program allows the user to enter two numbers and then select one of the four basic mathematical operations. Based on the user's selection, the program performs addition, subtraction, multiplication, or division operation and prints the result on the screen. </p1>
